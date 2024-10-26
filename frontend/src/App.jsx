@@ -1895,6 +1895,7 @@ function RoboticKneeForm() {
                     "Stationary Biking / Spinning",
                     "Leg Press",
                     "Jogging",
+                    "Skipping",
                   ].map((activity, i) => (
                     <label key={i} className="flex items-center space-x-2">
                       <input
