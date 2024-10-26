@@ -118,7 +118,7 @@ function RoboticKneeForm() {
               <div>
                 <label
                   htmlFor="today Date"
-                  className="block text-sm font-medium text-gray-700"
+                  className="block text-sm font-medium text-gray-800"
                 >
                   1.Today Date
                 </label>
